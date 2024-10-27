@@ -125,11 +125,18 @@
   max-width: 438px;
 }
 
+.recipes__iframe {
+  display: flex;
+  justify-content: center;
+}
+
 .recipes__videos {
   display: flex;
-  gap: 20px;
+  justify-content: center;
+  gap: 40px;
   list-style-type: none;
-  width: 480px;
+  margin: 0;
+  padding: 0;
   height: 273px;
 }
 
@@ -140,4 +147,5 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
+  margin: 24px 0 0;
 }
