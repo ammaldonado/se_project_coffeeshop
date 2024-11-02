@@ -13,4 +13,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Sprint 2 se_project_coffeeshop
+html and css project with blocks animation hover links with sooth transition import pictures and videos
+
+On the Nav page the picture in the title covers some of the text on the paragraph when the screen is reduced. I would like to fix that.
